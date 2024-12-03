@@ -1,3 +1,3 @@
 # githubdemo
-this is my first git hub repository 
-author-sahana bk
+This is my first git hub repository 
+Author-sahana bk
